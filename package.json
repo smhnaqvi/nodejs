@@ -1,0 +1,22 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "Hi Nodejs Lovers ❤",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smhnaqvi/nodejs.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "smhnaqvi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smhnaqvi/nodejs/issues"
+  },
+  "homepage": "https://github.com/smhnaqvi/nodejs#readme"
+}
